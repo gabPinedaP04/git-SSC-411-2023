@@ -1,0 +1,23 @@
+Comandos: 
+Clone git clone
+Status git status
+Add/Stage files: git add <file_name> git add
+commit: git commit -m "commit_messages"
+push git push 
+git fetch hace primero un git pull 
+git pull traer las cosas del repo
+fetch repo metadata : git fetch
+pull: git pull
+
+ramas: 
+nos permiten agregar commits de manera segura sin alterar directamente la principal
+
+
+es recomendable borrar las ramas q no usamos
+
+pull request
+
+¿¿¿
+Estrategias resolucion de conflictos
+Merge: integrar cambios y resolver conflictos en una sola operacion
+Rebase: cambiamos el commit de origen de nuestra rama y resolvemos conflictos y luego hacemos un merge sin conflictos
