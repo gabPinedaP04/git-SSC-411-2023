@@ -6,3 +6,5 @@ commit: git commit -m "commit_messages"
 push git push 
 git fetch hace primero un git pull 
 git pull traer las cosas del repo
+fetch repo metadata : git fetch
+pull: git pull
