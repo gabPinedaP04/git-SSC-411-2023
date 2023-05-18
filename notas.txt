@@ -11,3 +11,13 @@ pull: git pull
 
 ramas: 
 nos permiten agregar commits de manera segura sin alterar directamente la principal
+
+
+es recomendable borrar las ramas q no usamos
+
+pull request
+
+¿¿¿
+Estrategias resolucion de conflictos
+Merge: integrar cambios y resolver conflictos en una sola operacion
+Rebase: cambiamos el commit de origen de nuestra rama y resolvemos conflictos y luego hacemos un merge sin conflictos
